@@ -1,0 +1,8 @@
+# GitHub Pages configuration
+title: Война за Вотердип
+description: Лор-библиотека по кампании "Война за Вотердип" в мире Забытых Королевств
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
